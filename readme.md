@@ -14,7 +14,7 @@ This repository contains practice homework for time-series courses.
 
 3. Dynamic predictive models(In progress)
     * Residual analisys. Dickey-Fuller test
-    * Autocorelation analisys.
+    * Autocorelation analisys
     * Predicting Time series: AR Model
     * Predicting Time series: Moving Average Model
 
@@ -29,6 +29,9 @@ This repository contains practice homework for time-series courses.
 ### Structure:
 * /data - contains csv files with data
 * /notebooks - contains - ipynb files with prectices
+
+### Requirements:
+To complete this practice you need to install [Anaconda](https://www.anaconda.com/products/individual). Anaconda is a Python data science distribution with preinstalled libraries.
 
 ### Useful links:
 - [Machine Learning Mastery. Introduction to Time Series Forecasting (Python)](https://machinelearningmastery.com/start-here/#timeseries)
