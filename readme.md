@@ -5,18 +5,20 @@ This repository contains practice homework for time-series courses.
     * Time series smoothing
     * Trend estimation and extraction
 
-2. Trend predictive models(In progress)
+2. Trend predictive models
     * Naive Approach
     * Simple Exponential Smoothing
     * Holt's Linear Trend Model
     * Holt Winter's Model
 
-
-3. Dynamic predictive models(In progress)
+3. Dynamic predictive models
     * Residual analisys. Dickey-Fuller test
     * Autocorelation analisys
     * Predicting Time series: AR Model
     * Predicting Time series: Moving Average Model
+
+4. Dynamic predictive models. Part 2
+    * Predicting Time series: Moving Average Model. Part 2
 
 
 ### Datasets:
